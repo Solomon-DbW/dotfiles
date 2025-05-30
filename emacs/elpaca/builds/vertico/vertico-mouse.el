@@ -1,0 +1,1 @@
+/home/solomon/.config/emacs/elpaca/repos/vertico/extensions/vertico-mouse.el

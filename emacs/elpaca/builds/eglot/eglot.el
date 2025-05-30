@@ -1,0 +1,1 @@
+/home/solomon/.config/emacs/elpaca/repos/eglot/lisp/progmodes/eglot.el

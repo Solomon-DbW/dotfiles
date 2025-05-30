@@ -1,0 +1,1 @@
+/home/solomon/.config/emacs/elpaca/repos/auto-complete/auto-complete-config.el
